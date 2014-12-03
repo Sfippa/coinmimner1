@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=iso-8859-15">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.1  (Win32)">
+	<META HTTP-EQUIV="REFRESH" CONTENT="60">
+	<META NAME="AUTHOR" CONTENT="Axel Kaube">
+	<META NAME="CREATED" CONTENT="20141203;105355">
+	<META NAME="CHANGEDBY" CONTENT="Axel Kaube">
+	<META NAME="CHANGED" CONTENT="20141203;152958">
+</HEAD>
+<BODY LANG="de-DE" DIR="LTR">
+<DL>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;!doctype html&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;html style=&quot;background:
+	none&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;head&gt;</B></FONT></FONT><DT>
+	    <FONT FACE="System"><FONT SIZE=2><B>&lt;title&gt;Sign In -
+	CEX.IO&lt;/title&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	&lt;meta name=&quot;description&quot;
+	content=&quot;Sign In. CEX.IO - Bitcoin Crypto Exchange.&quot;/&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	&lt;meta charset=&quot;utf-8&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;!-- &lt;meta
+	name=&quot;viewport&quot; content=&quot;width=device-width,
+	initial-scale=1.0&quot;&gt; --&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;meta property=&quot;og:title&quot;
+	content=&quot;Bitcoin Crypto Exchange - CEX.IO&quot; /&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;meta
+	property=&quot;og:description&quot; content=&quot;CEX.IO is the
+	first and leading crypto exchange in the Bitcoin community. Here you
+	can trade GHS, while they mine you Bitcoins.&quot; /&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;meta property=&quot;og:image&quot;
+	content=&quot;http://cex.io/img/favicon64.png&quot; /&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;meta
+	property=&quot;og:image:secure_url&quot;
+	content=&quot;https://cex.io/img/favicon64.png&quot; /&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;link rel=&quot;shortcut
+	icon&quot; href=&quot;/favicon.ico&quot; type=&quot;image/x-icon&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;link
+	rel=&quot;apple-touch-icon&quot; href=&quot;/img/apple-touch-icon.png&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;link rel=&quot;apple-touch-icon&quot;
+	sizes=&quot;72&Atilde;&mdash;72&quot;
+	href=&quot;/img/apple-touch-icon-72x72-precomposed.png&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;link rel=&quot;apple-touch-icon&quot;
+	sizes=&quot;114&Atilde;&mdash;114&quot;
+	href=&quot;/img/apple-touch-icon-114x114-precomposed.png&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;link rel=&quot;icon&quot;
+	href=&quot;/img/favicon32.png&quot; sizes=&quot;32&Atilde;&mdash;32&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;link rel=&quot;icon&quot;
+	href=&quot;/img/favicon48.png&quot; sizes=&quot;48&Atilde;&mdash;48&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;link rel=&quot;icon&quot;
+	href=&quot;/img/favicon64.png&quot; sizes=&quot;64&Atilde;&mdash;64&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;link
+	href=&quot;/css/cex.css?v10232</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&quot; rel=&quot;stylesheet&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){</B></FONT></FONT><DT>
+	 <FONT FACE="System"><FONT SIZE=2><B>(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+	Date();a=s.createElement(o),</B></FONT></FONT><DT>
+	
+	<FONT FACE="System"><FONT SIZE=2><B>m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)</B></FONT></FONT><DT>
+	
+	<FONT FACE="System"><FONT SIZE=2><B>})(window,document,'script','//www.google-analytics.com/analytics.js','ga');</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>ga('create',
+	'UA-44277789-1', 'cex.io');</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>ga('require',
+	'displayfeatures');</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>ga('send', 'pageview');</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/script&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;/head&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;body style=&quot;background:
+	#131426&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;div class=&quot;signin
+	&quot;&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>	&lt;section id=&quot;content&quot;
+	style=&quot;width: 434px; margin-left: auto; margin-right: auto;
+	margin-top: 5%&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		&lt;div&gt;&lt;img
+	src=&quot;/img/id-top.png&quot; width=&quot;462&quot;
+	height=&quot;100&quot;&gt;&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		&lt;div&gt;&lt;a href=&quot;/&quot;&gt;&lt;img
+	src=&quot;/img/cex-ghash.png&quot;&gt;&lt;/a&gt;&lt;/div&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>		&lt;form class=&quot;padder
+	&quot; id=&quot;signin&quot; method=&quot;POST&quot;
+	action=&quot;/signin&quot; style=&quot;padding: 30px 75px;
+	background: #ffffff; background: -moz-linear-gradient(top, #ffffff
+	30%, #eeeeee 83%); background: -webkit-gradient(linear, left top,
+	left bottom, color-stop(30%,#ffffff), color-stop(83%,#eeeeee));
+	background: -webkit-linear-gradient(top, #ffffff 30%,#eeeeee 83%);
+	background: -o-linear-gradient(top, #ffffff 30%,#eeeeee 83%);
+	background: -ms-linear-gradient(top, #ffffff 30%,#eeeeee 83%);
+	background: linear-gradient(to bottom, #ffffff 30%,#eeeeee 83%);
+	filter: progid:DXImageTransform.Microsoft.gradient(
+	startColorstr='#ffffff', endColorstr='#eeeeee',GradientType=0 );&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>			&lt;input type=&quot;hidden&quot;
+	name=&quot;return&quot; value=&quot;/trade/ghash&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			&lt;fieldset&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;div
+	class=&quot;control-group&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;label
+	class=&quot;control-label&quot;
+	for=&quot;username&quot;&gt;&lt;b&gt;Username&lt;/b&gt;&lt;/label&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;div class=&quot;controls&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;div class=&quot;input&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>							&lt;input type=&quot;text&quot;
+	class=&quot;input-xlarge&quot; id=&quot;username&quot;
+	name=&quot;username&quot; rel=&quot;popover&quot; placeholder=&quot;Enter
+	your username&quot; value=&quot;&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;div
+	class=&quot;control-group&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;label
+	class=&quot;control-label&quot;
+	for=&quot;password&quot;&gt;&lt;b&gt;Password&lt;/b&gt;&lt;/label&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;div class=&quot;controls&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;div class=&quot;input&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>							&lt;input type=&quot;password&quot;
+	class=&quot;input-xlarge&quot; id=&quot;password&quot;
+	name=&quot;password&quot; rel=&quot;popover&quot; placeholder=&quot;Enter
+	password&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;div
+	class=&quot;control-group&quot; style=&quot;margin-top: 10px&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;div class=&quot;controls&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;span&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;label
+	for=&quot;keep_logged_in&quot;&gt;&lt;input type=&quot;checkbox&quot;
+	id=&quot;keep_logged_in&quot; style=&quot;margin-bottom: 7px&quot;&gt;
+	Keep me logged in&lt;/label&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;/span&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;div
+	class=&quot;control-group&quot; style=&quot;margin-top: 10px&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;div class=&quot;controls&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;button type=&quot;submit&quot;
+	class=&quot;btn btn-info&quot; rel=&quot;tooltip&quot;&gt;Sign
+	in&lt;/button&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>						&lt;span&gt;&lt;a
+	href=&quot;/reset_pass&quot; class=&quot;pull-right m-t-mini&quot;
+	onclick=&quot;ga('send', 'event', 'SignIn', 'click',
+	'Login')&quot;&gt;&lt;small&gt;Reset password&lt;/small&gt;&lt;/a&gt;&lt;/span&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				&lt;/fieldset&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>				&lt;br&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>				&lt;p class=&quot;text-muted
+	text-center&quot;&gt;&lt;small&gt;Do not have an account? &lt;a
+	href=&quot;/signup&quot; onclick=&quot;ga('send', 'event', 'SignUp',
+	'Step1', 'SignInForm')&quot;&gt;Create an account&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			&lt;/form&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		&lt;/section&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	&lt;/div&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><BR>
+	<DT><BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;script
+	src=&quot;/js/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;script
+	src=&quot;/js/sha256.js&quot;&gt;&lt;/script&gt;</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>&lt;script
+	type=&quot;text/javascript&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	/* &lt;![CDATA[ */</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	var google_conversion_id =
+	971878938;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	var google_custom_params =
+	window.google_tag_params;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	var google_remarketing_only =
+	true;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	/* ]]&gt; */</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;script
+	type=&quot;text/javascript&quot;
+	src=&quot;//www.googleadservices.com/pagead/conversion.js&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;noscript&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	&lt;div
+	style=&quot;display:inline;&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		&lt;img height=&quot;1&quot;
+	width=&quot;1&quot; style=&quot;border-style:none;&quot; alt=&quot;&quot;
+	src=&quot;//googleads.g.doubleclick.net/pagead/viewthroughconversion/971878938/?value=0&amp;guid=ON&amp;script=0&quot;/&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	&lt;/div&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/noscript&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;script
+	type=&quot;text/javascript&quot;&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	setTimeout(function(){var
+	a=document.createElement(&quot;script&quot;);</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		var
+	b=document.getElementsByTagName(&quot;script&quot;)[0];</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		a.src=document.location.protocol+&quot;//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/4920.js?&quot;+Math.floor(new
+	Date().getTime()/3600000);</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		a.async=true;a.type=&quot;text/javascript&quot;;b.parentNode.insertBefore(a,b)},
+	1);</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+	Date();a=s.createElement(o),</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>	ga('create',
+	'UA-44277789-1', 'cex.io');</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	ga('send', 'pageview');</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>	var captcha =
+	document.getElementById('captcha-refresh');</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>	if(captcha) {</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		captcha.addEventListener('click',function(e){</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			document.getElementById('captcha').src='/captcha.jpg?'+Date.now();</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		});</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	}</B></FONT></FONT><DT>
+	<BR>
+	<DT><FONT FACE="System"><FONT SIZE=2><B>	$(document).ready(function()
+	{</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		$('form').submit(function(form){</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			var salt =
+	'KoNXm0UsxTkY2Xof';</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>			var pw_realization_strategy =
+	'sha';</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				var hash =
+	CryptoJS.SHA256(form.currentTarget[&quot;password&quot;].value+salt);</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				hash =
+	hash.toString(CryptoJS.enc.Hex);</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				if(pw_realization_strategy
+	== 'sha'){</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					form.currentTarget[&quot;password&quot;].value
+	= hash;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					form.currentTarget[&quot;hash&quot;].value
+	= hash;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				}else{</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>					form.currentTarget[&quot;hash&quot;].value
+	= hash;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				}</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				form.submit();</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>				return true;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>		});</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>	});</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/script&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/body&gt;</B></FONT></FONT><DT>
+	<FONT FACE="System"><FONT SIZE=2><B>&lt;/html&gt;</B></FONT></FONT><DT>
+	<BR>
+</DL>
+<P><BR><BR>
+</P>
+</BODY>
+</HTML>
